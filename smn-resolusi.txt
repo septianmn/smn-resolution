@@ -2,3 +2,4 @@ smn resolusi
 - resolusi pertama
 - resolusi kedua
 - resolusi ketiga
+- resokusi ke empat
